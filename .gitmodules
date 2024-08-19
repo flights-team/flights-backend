@@ -1,3 +1,3 @@
 [submodule "flights-common"]
 	path = flights-common
-	url = https://github.com/x036ox/flights-common.git
+	url = https://github.com/flights-team/flights-common.git
