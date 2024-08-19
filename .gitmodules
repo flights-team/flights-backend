@@ -1,3 +1,6 @@
 [submodule "flights-common"]
 	path = flights-common
 	url = https://github.com/flights-team/flights-common.git
+[submodule "office-manager"]
+	path = office-manager
+	url = https://github.com/flights-team/office-manager.git
